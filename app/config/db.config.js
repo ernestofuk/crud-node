@@ -1,3 +1,3 @@
 module.exports = {
-  url: "mongodb+srv://efuk:xpekoxp33@demo-cluster.orlrp.mongodb.net/demo-cluster?retryWrites=true&w=majority"  
+  url: "mongodb://127.0.0.1:27017/db-crud"  
 };
